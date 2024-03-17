@@ -1,13 +1,13 @@
-Running Seurat on Stanford Sherlock
+Running Seurat on Stanford Sherlock <br>
 
-1. LOGIN TO STANFORD SHERLOCK
-ssh <username>@login.sherlock.stanford.edu
-
-2. RETRIEVE DATA
-ml python/3.9.0
-pip install gdown # for downloading big Google drive files
-gdown --id 1sx-kWG-cBc45mItsFBFj5xQwDjwCiaaC -O TotalTissue.combined.harmony.RData # the id was taken from the shareable Google drive link https://drive.google.com/file/d/<id>/view
-
+1. LOGIN TO STANFORD SHERLOCK <br>
+ssh <username>@login.sherlock.stanford.edu <br>
+ <br>
+2. RETRIEVE DATA <br>
+ml python/3.9.0 <br>
+pip install gdown # for downloading big Google drive files <br>
+gdown --id 1sx-kWG-cBc45mItsFBFj5xQwDjwCiaaC -O TotalTissue.combined.harmony.RData # the id was taken from the shareable Google drive link  <br>https://drive.google.com/file/d/<id>/view <br>
+ <br>
 3. SET UP FOR R SESSION
 sh_dev -c 4 # initiate session with 4 CPUs
 ml glpk # required to properly install igraph
