@@ -7,7 +7,8 @@ Repository for STEMREM205 group project (W2024) at Stanford University. <br>
 
 [`harmony_integration`](https://github.com/janeschwab/STEMREM205-Project/tree/main/harmony_integration): Contains the scripts necessary to load the PDAC patient data and integrate it using Seurat and Harmony. Also contains summary data of PDAC tissue cellc counts. <br>
 [`cnv_analysis`](https://github.com/janeschwab/STEMREM205-Project/tree/main/cnv_analysis): Contains the genome position and cell type annotation files required to run inferCNV. <br>
-[`taxa_assignment`](https://github.com/janeschwab/STEMREM205-Project/tree/main/taxa_assignment): Contains the scripts and data required to assign sample labels in the anonymized PDAC data from Steele et al. (2020) to the processed taxa data from Ghaddar et al. (2022). Also contains scripts and data for microbial diversity analyses.
+[`taxa_assignment`](https://github.com/janeschwab/STEMREM205-Project/tree/main/taxa_assignment): Contains the scripts and data required to assign sample labels in the anonymized PDAC data from Steele et al. (2020) to the processed taxa data from Ghaddar et al. (2022). Also contains scripts and data for microbial diversity analyses. <br>
+[`main_analyses`](https://github.com/janeschwab/STEMREM205-Project/tree/main/main_analyses): Contains the script and data necessary to run the main analyses in this work.
 
 ### Description of data
 #### Pancreatic ductal adenocarcinoma (PDAC) data
