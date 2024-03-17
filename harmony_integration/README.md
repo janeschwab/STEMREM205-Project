@@ -11,6 +11,8 @@ This folder contains the scripts necessary to load the single-cell PDAC data and
 3. [`R_harmony.sbatch`]
 - Bash script for Slurm job submission in Sherlock.
 - The final output is a Harmony-integrated Seurat object "TotalTissue.combined.harmony_scaled.RData" which is used for all downstream analyses.
+4. [`totaltissue_cell_counts.xlsx`]
+- Summary data of cell counts for each PDAC tissue sample.
 
 ### References
 
