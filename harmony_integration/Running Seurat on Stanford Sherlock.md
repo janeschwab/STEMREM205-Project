@@ -1,12 +1,12 @@
 Running Seurat on Stanford Sherlock <br>
 
 1. LOGIN TO STANFORD SHERLOCK <br>
-ssh <username>@login.sherlock.stanford.edu <br>
+ssh samhking@login.sherlock.stanford.edu <br>
 
 2. RETRIEVE DATA <br>
 ml python/3.9.0 <br>
 pip install gdown # for downloading big Google drive files <br>
-gdown --id 1sx-kWG-cBc45mItsFBFj5xQwDjwCiaaC -O TotalTissue.combined.harmony.RData # the id was taken from the shareable Google drive link https://drive.google.com/file/d/<id>/view <br>
+gdown --id 1sx-kWG-cBc45mItsFBFj5xQwDjwCiaaC -O TotalTissue.combined.harmony.RData # the id was taken from the shareable Google drive link https://drive.google.com/file/d/id/view <br>
 
 3. SET UP FOR R SESSION <br>
 sh_dev -c 4 # initiate session with 4 CPUs <br>
@@ -29,6 +29,6 @@ remotes::install_github("immunogenomics/presto") # need presto to speed up marke
 cd /scratch/users/<username>/<foldername> # change with desired directory <br>
 ls # check that sbatch file is there <br>
 sbatch R_main.sbatch <br>
-squeue -u <username> # check status of run <br>
+squeue -u samhking # check status of run <br>
 htop # see compute usage <br>
 #Look at slurm.out file for report on run
