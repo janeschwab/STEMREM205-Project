@@ -1,0 +1,174 @@
+Cell type,Pathway ,P value
+CD8+ bacterial associated,Influenza Viral RNA Transcription and Replication,1.11E-16
+CD8+ bacterial associated,Influenza Infection,1.11E-16
+CD8+ bacterial associated,Cellular responses to stress,1.57E-10
+CD8+ bacterial associated,Cellular responses to stimuli,1.94E-10
+CD8+ bacterial associated,Infectious disease,1.78E-08
+CD8+ bacterial associated,Metabolism,8.38E-05
+CD8+ bacterial associated,Cellular response to starvation,1.11E-16
+CD8+ bacterial associated,Response of EIF2AK4 (GCN2) to amino acid deficiency,1.11E-16
+CD8+ bacterial associated,Interleukin-7 signaling,4.32E-02
+CD8+ unassociated,Cytokine Signaling in Immune system,3.12E-04
+CD8+ unassociated,Signaling by Interleukins,1.26E-03
+CD8+ unassociated,Neutrophil degranulation,2.97E-03
+CD8+ unassociated,Immune System,3.55E-03
+CD8+ unassociated,Protein expression/JAK-STAT signaling /IL-12 stimulation,8.26E-02
+CD8+ unassociated,Interleukin-12 signaling,5.25E-03
+CD8+ unassociated,Interleukin-12 family signaling,6.80E-03
+CD8+ unassociated,Antigen processing-Cross presentation,1.18E-02
+CD8+ unassociated,Interferon alpha/beta signaling,1.20E-02
+CD8+ unassociated,Interferon gamma signaling,2.17E-02
+CD4+ bacterial associated,Influenza Viral RNA Transcription and Replication,7.52E-05
+CD4+ bacterial associated,Cellular response to starvation,8.00E-05
+CD4+ bacterial associated,Influenza Infection,1.12E-04
+CD4+ bacterial associated,Interferon alpha/beta signaling,1.88E-03
+CD4+ bacterial associated,Cellular responses to stress,1.31E-02
+CD4+ bacterial associated,Cellular responses to stimuli,1.37E-02
+CD4+ bacterial associated,Interferon Signaling,1.66E-02
+CD4+ bacterial associated,Viral Infection Pathways,1.77E-02
+CD4+ bacterial associated,Infectious disease,3.69E-02
+CD4+ unassociated,Cytokine Signaling in Immune system,2.98E-03
+CD4+ unassociated,Interferon alpha/beta signaling,6.80E-03
+CD4+ unassociated,Immune System,7.89E-03
+CD4+ unassociated,Neutrophil degranulation,1.02E-02
+CD4+ unassociated,Interferon gamma signaling,1.25E-02
+CD4+ unassociated,Signaling by Interleukins,2.39E-02
+CD4+ unassociated,Interleukin-7 signaling,2.97E-02
+CD4+ unassociated,Apoptotic cleavage of cellular proteins,3.62E-02
+B cells bacterial associated,Interferon gamma signaling,1.03E-08
+B cells bacterial associated,Interferon Signaling,1.17E-06
+B cells bacterial associated,Cytokine Signaling in Immune system,2.67E-06
+B cells bacterial associated,Translocation of ZAP-70 to Immunological synapse,3.26E-06
+B cells bacterial associated,Phosphorylation of CD3 and TCR zeta chains,4.34E-06
+B cells bacterial associated,PD-1 signaling,4.34E-06
+B cells bacterial associated,Downstream TCR signaling,1.62E-04
+B cells bacterial associated,Signaling by ALK in cancer,1.93E-04
+B cells bacterial associated,Immune System,2.42E-04
+B cells unassociated,Attenuation phase,2.22E-16
+B cells unassociated,Cellular response to heat stress,7.65E-13
+B cells unassociated,Cellular responses to stress,2.33E-08
+B cells unassociated,Cellular responses to stimuli,2.74E-08
+B cells unassociated,HSF1 activation,5.57E-12
+B cells unassociated,Regulation of HSF1-mediated heat shock response,1.86E-13
+B cells unassociated,HSF1-dependent transactivation,1.11E-15
+B cells unassociated,Viral RNP Complexes in the Host Cell Nucleus,1.64E-02
+Endothelial cells bacterial associated,Interferon Signaling,1.17E-06
+Endothelial cells bacterial associated,MHC class II antigen presentation,7.78E-06
+Endothelial cells bacterial associated,Interferon gamma signaling,2.12E-05
+Endothelial cells bacterial associated,Immune System,3.00E-05
+Endothelial cells bacterial associated,Cytokine Signaling in Immune system,3.70E-04
+Endothelial cells bacterial associated,Translocation of ZAP-70 to Immunological synapse,3.89E-04
+Endothelial cells bacterial associated,PD-1 signaling,4.70E-04
+Endothelial cells bacterial associated,Adaptive Immune System,1.44E-03
+Endothelial cells bacterial associated,Interferon alpha/beta signaling,6.80E-03
+Endothelial cells bacterial associated,Costimulation by the CD28 family,3.17E-03
+Endothelial cells unassociated,Signaling by Receptor Tyrosine Kinases,4.25E-05
+Endothelial cells unassociated,Laminin interactions,2.18E-04
+Endothelial cells unassociated,Collagen chain trimerization,4.38E-04
+Endothelial cells unassociated,Collagen degradation,1.07E-03
+Endothelial cells unassociated,Extracellular matrix organization,1.39E-03
+Endothelial cells unassociated,ECM proteoglycans,1.39E-03
+Endothelial cells unassociated,Collagen formation,2.39E-03
+Endothelial cells unassociated,Fibronectin matrix formation,4.97E-03
+Endothelial cells unassociated,Signal attenuation,9.21E-03
+Endothelial cells unassociated,Crosslinking of collagen fibrils,1.69E-02
+Fibroblast bacterial associated,Fructose catabolism,4.26E-03
+Fibroblast bacterial associated,Fructose metabolism,5.95E-03
+Fibroblast bacterial associated,RA biosynthesis pathway,1.86E-02
+Fibroblast bacterial associated,Molecules associated with elastic fibres,3.11E-02
+Fibroblast bacterial associated,Signaling by Retinoic Acid,3.61E-02
+Fibroblast bacterial associated,Elastic fibre formation,3.69E-02
+Fibroblast bacterial associated,Phase I - Functionalization of compounds,8.60E-02
+Fibroblast bacterial associated,Ethanol oxidation,1.02E-02
+Fibroblast bacterial associated,Regulation / TCF-dependent signaling by WNT ligand antagonists,1.27E-02
+Fibroblast unassociated,NOTCH4 Intracellular Domain Regulates Transcription,1.84E-04
+Fibroblast unassociated,NGF-stimulated transcription,8.45E-04
+Fibroblast unassociated,Signaling by NOTCH4,2.25E-03
+Fibroblast unassociated,Signaling by NOTCH,1.64E-02
+Fibroblast unassociated,Collagen chain trimerization,3.36E-02
+Fibroblast unassociated,Assembly of collagen fibrils and other multimeric structures,5.08E-02
+Fibroblast unassociated,Collagen degradation,5.23E-02
+Fibroblast unassociated,Collagen biosynthesis and modifying enzymes,5.74E-02
+Fibroblast unassociated,Collagen formation,7.78E-02
+DCs bacterial associated,Hedgehog ligand biogenesis,1.90E-03
+DCs bacterial associated,Oxidative Stress Induced Senescence,4.58E-03
+DCs bacterial associated,Interferon alpha/beta signaling,5.92E-03
+DCs bacterial associated,VLDL assembly,8.12E-03
+DCs bacterial associated,Interleukin-23 signaling,9.91E-03
+DCs bacterial associated,Cellular responses to stress,1.18E-02
+DCs bacterial associated,Cellular responses to stimuli,1.25E-02
+DCs bacterial associated,Cellular Senescence,1.36E-02
+DCs bacterial associated,Cytokine Signaling in Immune system,1.44E-02
+DCs bacterial associated,Cellular response to chemical stress,3.02E-02
+DCs unassociated,TFAP2A transcriptional repressor during retinoic induced cell differentiation,2.23E-05
+DCs unassociated,Interleukin-12 signaling,1.88E-03
+DCs unassociated,Interleukin-12 family signaling,2.44E-03
+DCs unassociated,Cytokine Signaling in Immune system,7.97E-03
+DCs unassociated,Interferon gamma signaling,8.01E-03
+DCs unassociated,Protein localization,7.41E-03
+NK cells bacterial associated,Influenza Viral RNA Transcription and Replication,1.11E-16
+NK cells bacterial associated,Cellular response to starvation,1.11E-16
+NK cells bacterial associated,Influenza Infection,1.11E-16
+NK cells bacterial associated,Cellular responses to stress,1.68E-10
+NK cells bacterial associated,Cellular responses to stimuli,2.10E-10
+NK cells bacterial associated,Viral Infection Pathways,7.07E-10
+NK cells bacterial associated,Infectious disease,2.54E-08
+NK cells bacterial associated,Metabolism of proteins,6.97E-07
+NK cells bacterial associated,Interleukin-12 signaling,8.79E-03
+NK cells bacterial associated,Interleukin-12 family signaling,1.13E-02
+NK cells unassociated,Interferon alpha/beta signaling,2.08E-04
+NK cells unassociated,Interferon gamma signaling,3.90E-04
+NK cells unassociated,Interferon Signaling,1.94E-03
+NK cells unassociated,"Antigen Presentation: Folding, assembly and peptide loading of class I MHC",7.93E-03
+NK cells unassociated,Cytokine Signaling in Immune system,1.45E-02
+NK cells unassociated,Antigen processing-Cross presentation,2.46E-02
+Mast cells bacterial associated,Nuclear events stimulated by ALK signaling in cancer,1.23E-04
+Mast cells bacterial associated,Signaling by ALK fusions and activated point mutants,1.23E-04
+Mast cells bacterial associated,Signaling by ALK in cancer,1.23E-04
+Mast cells bacterial associated,Diseases of signal transduction by growth factor receptors/second messengers,8.25E-04
+Mast cells bacterial associated,Signaling by TGF-beta Receptor Complex,3.61E-03
+Mast cells bacterial associated,Signaling by TGFB family members,5.82E-03
+Mast cells unassociated,Attenuation phase,1.11E-16
+Mast cells unassociated,HSF1 activation,1.11E-16
+Mast cells unassociated,Cellular response to heat stress,1.11E-16
+Mast cells unassociated,Cellular responses to stimuli,4.18E-10
+Mast cells unassociated,Neutrophil degranulation,5.05E-03
+Mast cells unassociated,Cytokine Signaling in Immune system,2.08E-02
+Mast cells unassociated,Constitutive Signaling by EGFRvIII,3.22E-02
+Mast cells unassociated,Signaling by EGFRvIII in Cancer,3.22E-02
+Epithelial bacterial associated,Protein expression/JAK-STAT signaling/Interleukin-12 stimulation,1.95E-03
+Epithelial bacterial associated,Interleukin-12 signaling,2.57E-03
+Epithelial bacterial associated,Interleukin-12 family signaling,3.34E-03
+Epithelial bacterial associated,Signaling by TGFB family members,6.75E-03
+Epithelial bacterial associated,Downregulation of TGF-beta receptor signaling,2.51E-02
+Epithelial bacterial associated,Signaling by BMP,2.95E-02
+Epithelial bacterial associated,TGF-beta receptor signaling activates SMADs,4.52E-02
+Epithelial bacterial associated,Complex I biogenesis,5.21E-02
+Epithelial bacterial associated,ECM proteoglycans,6.92E-02
+Epithelial unassociated,ATF6 (ATF6-alpha) activates chaperone genes,7.29E-05
+Epithelial unassociated,Cellular responses to stress,1.11E-03
+Epithelial unassociated,Cellular responses to stimuli,1.20E-03
+Epithelial unassociated,Interleukin-23 signaling,9.21E-03
+Epithelial unassociated,FASTK proteins regulate processing/ stability of mitochondrial RNAs,1.59E-02
+Epithelial unassociated,Signaling by Interleukins,1.60E-02
+Epithelial unassociated,Cellular response to chemical stress,2.63E-02
+Epithelial unassociated,Cross-presentation of soluble exogenous antigens (endosomes),4.37E-02
+Epithelial unassociated,Metabolism of RNA,3.05E-02
+Myeloid bacterial associated,Influenza Viral RNA Transcription and Replication,4.65E-04
+Myeloid bacterial associated,Cellular response to starvation,4.88E-04
+Myeloid bacterial associated,Influenza Infection,6.87E-04
+Myeloid bacterial associated,Collagen degradation,1.75E-03
+Myeloid bacterial associated,Metabolism of RNA,5.63E-03
+Myeloid bacterial associated,Degradation of the extracellular matrix,7.72E-03
+Myeloid bacterial associated,Viral mRNA Translation,1.37E-04
+Myeloid bacterial associated,Nonsense-Mediated Decay (NMD),1.76E-04
+Myeloid bacterial associated,Signaling by ROBO receptors,1.13E-03
+Myeloid unassociated,NPAS4 regulates expression of target genes,4.56E-04
+Myeloid unassociated,Transcriptional regulation of granulopoiesis,1.31E-03
+Myeloid unassociated,Other interleukin signaling,1.85E-02
+Myeloid unassociated,Transcriptional Regulation by NPAS4,9.68E-04
+Myeloid unassociated,RAF-independent MAPK1/3 activation,2.15E-02
+Myeloid unassociated,Signaling by CSF3 (G-CSF),2.68E-02
+Myeloid unassociated,Negative regulation of MAPK pathway,3.74E-02
+Myeloid unassociated,Amyloid fiber formation,6.69E-02
+Myeloid unassociated,"BMAL1:CLOCK,NPAS2 activates circadian gene expression",5.01E-04
