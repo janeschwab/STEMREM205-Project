@@ -1,4 +1,4 @@
-This folder contains the scripts necessary to run the main analyses in this project. <br>
+This folder contains the script and data necessary to run the main analyses in this project. <br>
 
 ### Contents
 
