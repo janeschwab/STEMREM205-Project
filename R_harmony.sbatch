@@ -780,32 +780,4 @@ write.csv(TotalTissue.combined.harmony_clusters, file = "TotalTissue.combined.ha
 #Save the batch corrected object
 save(TotalTissue.combined.harmony, file = 'TotalTissue.combined.harmony_scaled.RData')
 
-#Define Clusters Based on Marker Expression
-
-#Epithelial
-FeaturePlot(object = TotalTissue.combined.harmony, features = c('PRSS1', 'CTRB2',
-                                                                'REG1A','CLU','MKI67','KRT8','SPINK1','KRT19','KRT18', 'KRT18','TFF1','MUC1'), cols = c("grey", "deeppink"), reduction = "umap", pt.size = .5)
-#Fibroblasts
-FeaturePlot(object = TotalTissue.combined.harmony, features = c('ACTA2', 'CDH11', 'PDGFRB', 'COL1A1', 'COL3A1', 
-                                                                'RGS5', 'IGFBP7', 'PDPN','DCN','MCAM','IL6','APOE','GLI1','GLI2','GLI3',
-                                                                'PDGFA'), cols = c("grey", "deeppink"), reduction = "umap", pt.size = .5)
-#ENDOTHELIAL
-FeaturePlot(object = TotalTissue.combined.harmony, features = c('VWF','CDH5'), cols = c("grey", "deeppink"), reduction = "umap", pt.size = .5)
-
-#MAST CELLS
-FeaturePlot(object = TotalTissue.combined.harmony, features = c('TPSAB1','CPA3'), cols = c("grey", "deeppink"), reduction = "umap", pt.size = .5)
-
-#MYELOID
-FeaturePlot(object = TotalTissue.combined.harmony, features = c('CD14','ITGAM','FCGR3A','FCGR3B','APOE',
-                                                                'C1QA','MARCO','LYZ','HLA-DRA'), cols = c("grey", "deeppink"), reduction = "umap", pt.size = .5)
-#DCS
-FeaturePlot(object = TotalTissue.combined.harmony, features = c('ITGAE','LYZ','CLEC9A','BATF3','IRF8','IDO1','CD207','CD1A'
-                                                                    ,'CD1C', 'HLA-DRA','CCL22','LAMP3','IL22RA2','CD101'), cols = c("grey", "deeppink"), reduction = "umap", pt.size = .5)
-#TCELLS&NK
-FeaturePlot(object = TotalTissue.combined.harmony, features = c('CD2', 'CD3D','CD3E','NCAM1','NKG7','CD4','CD8A','PRF1'
-                                                                ,'IFNG', 'GZMB','CD69','FOXP3','TIGIT','TOP2A','FCGR3A'), cols = c("grey", "deeppink"), reduction = "umap", pt.size = .5)
-#BCELLS
-FeaturePlot(object = TotalTissue.combined.harmony, features = c('CD79A', 'MS4A1','CD20','CD138','IGJ','IGLL5','CXCR4','CD117'
-                                                                ,'CD27','HLA-DRA'), cols = c("grey", "deeppink"), reduction = "umap", pt.size = .5)
-
 EOF
