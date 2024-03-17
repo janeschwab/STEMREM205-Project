@@ -6,6 +6,8 @@ Repository for STEMREM205 group project (W2024) at Stanford University. <br>
 ### Contents
 
 [`data`](link):
+[`cnv_analysis`](https://github.com/janeschwab/STEMREM205-Project/tree/main/cnv_analysis): Contains the genome position and cell type annotation files required to run inferCNV.
+[`taxa_assignment`](https://github.com/janeschwab/STEMREM205-Project/tree/main/taxa_assignment): Contains the scripts and data required to assign sample labels in the anonymized PDAC data from Steele et al. (2020) to the processed taxa data from Ghaddar et al. (2022).
 
 ### Description of data
 #### Pancreatic ductal adenocarcinoma (PDAC) data
